@@ -1,6 +1,6 @@
 subtitle: "教材补充解释与说明"
 title-slide-attributes:
-    data-background-image: image/school-gongji.jpg
+    data-background-image: https://objectstorage.ap-singapore-1.oraclecloud.com/n/axwslyfy9krb/b/qf/o/work%2Fschool-gongji.jpg
     data-background-size: contain
     data-background-opacity: "0.5"
 author: "邱飞"
@@ -13,7 +13,7 @@ format:
     fig-align: center
     #smaller: true
     theme: sky
-    logo: "image/zwu_logo.png"
+    logo: https://objectstorage.ap-singapore-1.oraclecloud.com/n/axwslyfy9krb/b/qf/o/work%2Fzwu_logo.png
     embed-resources: true
     footer: "hfutqiufei@163.com"
     scrollable: true
