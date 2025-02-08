@@ -6,8 +6,6 @@ title-slide-attributes:
 author: "邱飞"
 
 format:
-  gfm:
-    author: "邱飞"
   revealjs:
     slide-level: 3
     slide-number: true
